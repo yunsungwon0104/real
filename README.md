@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<smu-innovator html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
